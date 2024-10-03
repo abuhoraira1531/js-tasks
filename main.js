@@ -8,10 +8,10 @@ let jhonsDebitMoney = 200;
 let jhonsRemainingMoney = jhonsMoney - jhonsDebitMoney;
 console.log("Jhon's remaing is " + jhonsRemainingMoney + " taka .");
 
-let makeMachenePerHour = 120;
+let makeMachenesPerHour = 120;
 let totalHours = 8;
-let totalMachines = makeMachenePerHour * totalHours;
-console.log("Total machins are " + totalMachines);
+let totalMachenes = makeMachenesPerHour * totalHours;
+console.log("Total machenes are " + totalMachenes);
 
 let treesPerRow = 12;
 let totalRows = 8;
